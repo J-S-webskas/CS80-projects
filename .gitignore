@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+myenv/
+env/
+venv/
+
+# Dataset images
+*.ppm
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Data folders
+data/
+gtsrb/
+*.zip
+*.tar
+*.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
